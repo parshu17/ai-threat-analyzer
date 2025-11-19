@@ -75,4 +75,23 @@ git clone https://github.com/parshu17/threatvision-ai.git
 
 cd threatvision-ai
 
+python -m venv venv 
+
+source venv/bin/activate   # Mac/Linux
+
+venv\Scripts\activate      # Windows
+
+pip install --upgrade pip
+
+pip install -r requirements.txt
+
+.env
+
+ABUSEIPDB_KEY=your_key_here
+
+streamlit run app.py
+
+Dashboard will open at:
+
+http://localhost:8501
 
