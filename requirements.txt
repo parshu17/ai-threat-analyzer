@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+requests
+plotly
+transformers
+sentence-transformers
+python-dotenv
+scikit-learn
+shodan
+ipinfo
+pycountry
+plotly
+pyyaml
+streamlit-folium
+hashlib    # note: hashlib is builtin, don't install
