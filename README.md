@@ -72,6 +72,7 @@ Easy for recruiters to understand and evaluate
 🛠️ Installation
 
 git clone https://github.com/parshu17/threatvision-ai.git
+
 cd threatvision-ai
 
 
